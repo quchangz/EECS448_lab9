@@ -1,0 +1,23 @@
+.main
+{
+    display:flex;
+    align-items:flex-end;
+    margin:0
+}
+
+.pic
+{
+    width: 600px;
+    height: 300px;
+    margin: 50px;
+}
+
+.text
+{
+    text-align:center;
+}
+
+.body
+{
+    background-color:rgb(154, 226, 255);
+}
